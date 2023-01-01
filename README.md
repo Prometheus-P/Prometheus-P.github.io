@@ -1,2 +1,1 @@
-# Prometheus-P.github.io
-psychological test
+# 심리테스트를 올릴 페이지
